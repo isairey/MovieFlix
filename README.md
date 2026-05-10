@@ -150,7 +150,7 @@ MovieFlix/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/your-username/movieflix
+git clone https://github.com/isairey/movieflix
 ```
 
 ---
